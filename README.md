@@ -1,4 +1,6 @@
 # ai-patient-triage-system
+An AI-powered full-stack healthcare application designed to assist hospitals in patient triage, risk prediction, and real-time monitoring.
+This system helps medical staff prioritize patients based on health risk using machine learning, improving response time and resource utilization.
 
 ## 📸 Screenshots
 
